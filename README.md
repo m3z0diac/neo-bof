@@ -23,7 +23,7 @@ git clone https://github.com/hamza07-w/neo-bof.git
 cd neo-bof
 ```
 ```
-pip install requirements.txt
+pip3 install -r requirements.txt
 ```
 ```
 python3 neo.py
